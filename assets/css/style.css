@@ -1,1 +1,7 @@
-@import url();
+@import url("https: //fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&family=Source+Sans+Pro:wght@300;400&display=swap");
+
+h1,
+h3 {
+    font-family: Playfair-display;
+    font-weight: 400;
+}
