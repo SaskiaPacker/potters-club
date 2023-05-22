@@ -32,11 +32,13 @@ h2 {
 
 #logo {
     float: left;
-    font-size: 400%;
+    font-size: 100px;
     color: #30343f;
     position: relative;
     text-decoration: none;
-    margin-top: 30px;
+    margin-top: 3px;
+    margin-left: 10px;
+
 }
 
 #home-class-signup {
@@ -44,9 +46,12 @@ h2 {
 
 }
 
-#logo,
+#logo {
+    line-height: 80px;
+}
+
 #menu {
-    line-height: 75px;
+    line-height: 40px;
 }
 
 #menu li {
@@ -60,6 +65,7 @@ h2 {
 #hero-image {
     height: 100%;
     width: 60%;
+    position: relative;
 
 
 }
