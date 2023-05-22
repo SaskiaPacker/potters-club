@@ -50,3 +50,11 @@ h2 {
     list-style-type: none;
     margin: 30px;
 }
+
+/* images */
+
+#hero-image {
+    height: 100%;
+    width: 100%;
+
+}
