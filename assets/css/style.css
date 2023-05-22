@@ -12,9 +12,11 @@
     background-color: #ffffea
 }
 
+
 body {
     font-family: source-sans-pro, sans-serif;
     font-weight: 300;
+    font-size: 18px;
 }
 
 h1,
@@ -36,22 +38,13 @@ h2 {
     color: #30343f;
     position: relative;
     text-decoration: none;
-    margin-top: 3px;
     margin-left: 10px;
 
 }
 
-#home-class-signup {
+#menu {
     font-size: 18px;
 
-}
-
-#logo {
-    line-height: 80px;
-}
-
-#menu {
-    line-height: 40px;
 }
 
 #menu li {
@@ -59,6 +52,27 @@ h2 {
     list-style-type: none;
     margin: 30px;
 }
+
+#menu a {
+    font-family: source-sans-pro, sans-serif;
+    font-weight: 400;
+    text-decoration: none;
+    color: inherit;
+    font-style: bold;
+}
+
+#menu a:hover {
+    color: inherit;
+
+
+}
+
+#logo,
+#menu {
+    line-height: 80px;
+    margin: 1%;
+}
+
 
 /* images */
 
