@@ -2,7 +2,10 @@
 
 
 * {
-    margin: 0
+    margin: 0;
+    padding: 0;
+    border: none;
+
 }
 
 body {
@@ -16,10 +19,29 @@ h3 {
     font-weight: 400;
 }
 
+/* navigation links */
+
 #logo {
     float: left;
-    font-size: 50px;
+    font-size: 400%;
     color: #30343f;
     position: relative;
-    margin: 10px;
+    text-decoration: none;
+    margin-top: 30px;
+}
+
+#home-class-signup {
+    font-size: 18px;
+
+}
+
+#logo,
+#menu {
+    line-height: 75px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin: 30px;
 }
