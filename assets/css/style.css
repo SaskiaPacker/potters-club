@@ -59,7 +59,7 @@ h2 {
     font-weight: 700;
     text-transform: uppercase;
     text-decoration: none;
-    color: inherit;
+    color: #30343f;
 }
 
 #menu a:hover {
@@ -83,7 +83,7 @@ h2 {
 #text-overlay {
     float: right;
     font-family: playfair-display, serif;
-    color: red;
+    color: #30343f;
     text-align: right;
     font-size: 200%;
     line-height: 500px;
