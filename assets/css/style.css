@@ -34,11 +34,12 @@ h2 {
 
 #logo {
     float: left;
-    font-size: 100px;
+    font-size: 120px;
     color: #30343f;
     position: relative;
     text-decoration: none;
     margin-left: 10px;
+    padding-left: 15px;
 
 }
 
@@ -113,6 +114,27 @@ h2 {
     width: 60vw;
     position: relative;
     margin: 0 auto;
+    padding: 0 5px 5px 0;
 }
 
 /* About us section */
+
+.title-style {
+    font-family: playfair-display, serif;
+    font-weight: 400;
+    color: red;
+    font-size: 80px;
+    margin: 10px 0 10px 10px;
+    padding-left: 15px
+}
+
+#background-about-us-section {
+    background-color: #d9bbf9;
+    border: 8%;
+    padding: 8%;
+    margin: 0 10px 10px 10px 10px;
+    text-align: left;
+    width: 30%;
+    height: fit-content;
+    line-height: 25px;
+}
