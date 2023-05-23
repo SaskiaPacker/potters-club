@@ -68,6 +68,20 @@ h2 {
 
 }
 
+/*
+#nav-bar,
+#logo {
+    width: 100%;
+    height: 100%;
+    position: sticky;
+    top: 0px;
+    margin: 0 auto;
+    background-color: #f7f4ea;
+
+}
+*/
+
+
 #logo,
 #menu {
     line-height: 80px;
@@ -87,7 +101,8 @@ h2 {
     text-align: right;
     font-size: 200%;
     line-height: 600px;
-    margin-left: 3%;
+    margin-right: 0 auto;
+    padding: 40px;
 }
 
 
@@ -95,6 +110,9 @@ h2 {
 
 .hero-image {
     height: 80vh;
-    width: 60%;
+    width: 60vw;
     position: relative;
+    margin: 0 auto;
 }
+
+/* About us section */
