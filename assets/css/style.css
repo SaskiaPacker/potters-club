@@ -61,13 +61,16 @@ h2 {
     text-transform: uppercase;
     text-decoration: none;
     color: #30343f;
+
 }
 
+/*
 #menu a:hover {
     color: inherit;
 
 
 }
+*/
 
 /*
 #nav-bar,
@@ -91,15 +94,17 @@ h2 {
 
 /* main heading image*/
 
-#main-image-text {
+#main-page-container {
+    height: auto;
+    width: auto;
     display: inline-block;
 }
 
-#text-overlay {
+#right-float-h2 {
     float: right;
     font-family: playfair-display, serif;
     color: #30343f;
-    text-align: right;
+    text-align: left;
     font-size: 200%;
     line-height: 600px;
     margin-right: 0 auto;
@@ -119,22 +124,37 @@ h2 {
 
 /* About us section */
 
+#about-us-container {
+    height: max-content;
+    width: auto;
+    display: inline-block;
+    padding: 1% 0;
+}
+
 .title-style {
     font-family: playfair-display, serif;
     font-weight: 400;
     color: red;
-    font-size: 80px;
-    margin: 10px 0 10px 10px;
-    padding-left: 15px
+    font-size: 100px;
+    margin: 5px 0 5px 5px;
+    padding: 15px;
 }
 
-#background-about-us-section {
+#background-about-us-styling {
     background-color: #d9bbf9;
-    border: 8%;
-    padding: 8%;
+    border: 10%;
+    padding: 10%;
     margin: 0 10px 10px 10px 10px;
     text-align: left;
     width: 30%;
-    height: fit-content;
+    height: 100%;
     line-height: 25px;
+}
+
+.image-one {
+    height: 80vh;
+    width: 60vw;
+    position: relative;
+    margin: 0 auto;
+    padding: 0 5px 5px 0;
 }
