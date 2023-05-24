@@ -39,7 +39,7 @@ h2 {
     position: relative;
     text-decoration: none;
     margin-left: 10px;
-    padding-left: 15px;
+    padding-left: 30px;
 
 }
 
@@ -92,6 +92,10 @@ h2 {
     margin: 1%;
 }
 
+#nav-bar-container {
+    height: 100%;
+}
+
 /* main heading image*/
 
 #main-page-container {
@@ -135,12 +139,16 @@ h2 {
     color: #30343f;
     font-size: 100px;
     margin: 5px 0 5px 5px;
-    padding: 15px;
+    padding: 30px;
+}
+
+#about-us-title-styling {
+    padding-top: 4%;
 }
 
 #background-about-us-styling {
     border: 10%;
-    padding: 10%;
+    padding: 5% 10% 10% 5%;
     margin: 0 10px 10px 10px 10px;
     text-align: left;
     width: 30%;
@@ -161,16 +169,31 @@ h2 {
     padding-top: 11%;
 }
 
+/* Reviews Stlying*/
 
 #review-container {
-    display: inline;
-    height: 100%;
     width: 100%;
+    text-align: center;
+
 
 }
 
 .review {
-    text-align: center;
     color: red;
-    display: inline;
+}
+
+#review-left {
+    float: left;
+    width: 100px;
+}
+
+#review-right {
+    float: right;
+    width: 100px;
+}
+
+#review-center {
+    display: inline-block;
+    margin: 0 auto;
+    width: 100px;
 }
