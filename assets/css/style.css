@@ -127,21 +127,18 @@ h2 {
 #about-us-container {
     height: max-content;
     width: auto;
-    display: inline-block;
-    padding: 1% 0;
 }
 
 .title-style {
     font-family: playfair-display, serif;
     font-weight: 400;
-    color: red;
+    color: #30343f;
     font-size: 100px;
     margin: 5px 0 5px 5px;
     padding: 15px;
 }
 
 #background-about-us-styling {
-    background-color: #d9bbf9;
     border: 10%;
     padding: 10%;
     margin: 0 10px 10px 10px 10px;
@@ -151,10 +148,21 @@ h2 {
     line-height: 25px;
 }
 
+#sub-title-1 {
+    line-height: 50px;
+}
+
 .image-one {
-    height: 80vh;
-    width: 60vw;
+    float: right;
+    height: 40%;
+    width: 50%;
     position: relative;
-    margin: 0 auto;
-    padding: 0 5px 5px 0;
+    padding-left: 10%;
+    padding-top: 11%;
+}
+
+#review-container {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
 }
