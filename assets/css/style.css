@@ -161,8 +161,16 @@ h2 {
     padding-top: 11%;
 }
 
+
 #review-container {
-    display: inline-block;
-    height: 100px;
-    width: 100px;
+    display: inline;
+    height: 100%;
+    width: 100%;
+
+}
+
+.review {
+    text-align: center;
+    color: red;
+    display: inline;
 }
