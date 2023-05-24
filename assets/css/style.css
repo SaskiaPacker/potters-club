@@ -173,27 +173,62 @@ h2 {
 
 #review-container {
     width: 100%;
+    height: 100%;
     text-align: center;
+
 
 
 }
 
 .review {
+    /*
     color: red;
+    */
+    font-family: playfair-display, serif;
+    weight: 400;
+    line-height: 50px;
 }
 
 #review-left {
     float: left;
-    width: 100px;
+    width: 28%;
+    /*
+    background-color: #d9bbf9;
+    */
+    padding: 2%;
+    margin: 1% 0;
+    height: 80%;
+    line-height: 25px;
+
 }
 
 #review-right {
     float: right;
-    width: 100px;
+    width: 28%;
+    /*
+    background-color: #d9bbf9;
+    */
+    padding: 2%;
+    margin: 1% 0;
+    height: 80%;
+    line-height: 25px;
+
+
 }
 
 #review-center {
     display: inline-block;
     margin: 0 auto;
-    width: 100px;
+    width: 28%;
+    /*
+    background-color: #d9bbf9;
+    */
+    padding: 2%;
+    margin: 1% 0;
+    height: 80%;
+    line-height: 25px;
+}
+
+.name-styling {
+    line-height: 50px;
 }
