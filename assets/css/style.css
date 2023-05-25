@@ -119,8 +119,8 @@ h2 {
 /* images */
 
 .hero-image {
-    height: 80vh;
-    width: 60vw;
+    height: 600px;
+    width: 60%;
     position: relative;
     margin: 0 auto;
     padding: 0 5px 5px 0;
@@ -185,7 +185,7 @@ h2 {
     color: red;
     */
     font-family: playfair-display, serif;
-    weight: 400;
+    font-weight: 400;
     line-height: 50px;
 }
 
@@ -231,4 +231,5 @@ h2 {
 
 .name-styling {
     line-height: 50px;
+
 }
