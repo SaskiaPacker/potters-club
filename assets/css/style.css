@@ -51,6 +51,9 @@ h2 {
 
 #menu li {
     float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     list-style-type: none;
     margin: 30px;
 }
@@ -232,4 +235,10 @@ h2 {
 .name-styling {
     line-height: 50px;
 
+}
+
+/* Video Section*/
+
+#iframe-container {
+    height: 600px;
 }
