@@ -33,6 +33,10 @@ h3 {
 
 /* navigation links */
 
+#nav-bar-container {
+    height: 100px;
+}
+
 #logo {
     float: left;
     font-size: 120px;
@@ -103,7 +107,6 @@ h3 {
     text-align: left;
     font-size: 200%;
     line-height: 600px;
-    margin-right: 0 auto;
     padding: 40px;
 }
 
@@ -115,7 +118,6 @@ h3 {
     width: 60%;
     position: relative;
     margin: 0 auto;
-    padding: 0 5px 5px 0;
 }
 
 /* About us section */
@@ -266,4 +268,11 @@ footer h2 {
     margin: 60x;
     padding: 100px;
     line-height: 20px;
+}
+
+/* class page section*/
+
+#hero-image-class-section {
+    height: 800px;
+    width: 100%;
 }
