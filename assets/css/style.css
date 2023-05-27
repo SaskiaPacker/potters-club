@@ -234,20 +234,20 @@ h3 {
 
 #iframe-container {
     height: 600px;
-    padding: 20px 0;
-    margin: 20px 0;
+    padding-top: 20px;
+    margin-top: 20px;
 }
 
 /* footer-section*/
 
 #footer-container {
-    background-color: #f7f4ea;
+    background-color: #30343f;
     position: sticky;
     left: 0;
     bottom: 0;
     width: 100%;
     height: 200px;
-    color: #30343f
+    color: #f7f4ea
 }
 
 footer h2 {
@@ -256,6 +256,7 @@ footer h2 {
     font-family: playfair-display, serif;
     font-weight: 400;
     letter-spacing: 2px;
+    padding-top: 10px;
 }
 
 .social-icon-style {
@@ -268,9 +269,8 @@ footer h2 {
 
 .social-icon-style i {
     font-size: 250%;
-    color: #30343f;
-    margin: 60x;
-    padding: 100px;
+    color: #f7f4ea;
+    padding: 100px 100px 0 100px;
     line-height: 20px;
 }
 
@@ -310,4 +310,26 @@ footer h2 {
 .table-container {
     width: 100%;
     height: 300px;
+}
+
+table {
+    margin-left: 50px;
+    padding: 30px;
+}
+
+table,
+th,
+td {
+
+    border: 2px solid #30343f;
+    border-top: none;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th,
+td {
+    height: 5%;
+    width: 5%;
+    padding: 2%;
 }
