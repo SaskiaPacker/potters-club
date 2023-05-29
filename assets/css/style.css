@@ -275,6 +275,7 @@ footer h2 {
 /* class page section*/
 
 #hero-image-class-section {
+    padding-top: 3%;
     height: 800px;
     width: 100%;
 }
@@ -338,7 +339,7 @@ td {
 /*Sign-up Page*/
 
 #image-tiling-container {
-    padding-top: 0% auto;
+    padding-top: 3%;
     clear: both;
     line-height: 0;
     column-count: 4;
@@ -360,4 +361,16 @@ td {
 .image-tiling-style-landscape {
     width: 100%;
     height: 100%;
+}
+
+#stay-in-contact-container {
+    width: 100%;
+    height: 600px;
+}
+
+#stay-in-contact-title {
+    font-size: 50px;
+    padding: 10px 30px;
+    color: #30343f;
+    text-align: center;
 }
