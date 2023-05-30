@@ -71,21 +71,21 @@
 
     <section>
         <div id="stay-in-contact-container">
-            <h1 id="stay-in-contact-title"><em>Stay in contact</em></h1>
-            <form>
-                <label for="fname">First Name:</label>
-                <input id="fname" type="text" name="fname" value="First Name" required>
-            </form>
-            <form>
-                <label for="sname">Second Name:</label>
-                <input id="sname" type="text" name="fname" value="Second Name" required>
-            </form>
-            <form>
-                <label for="email">Email:</label>
-                <input id="email" type="email" name="email" value="Email" required>
-            </form>
-            <button type="submit" vlaue="send">submit</button>
+            <form method="POST" action="" id="form-styling">
+                <h1 id="stay-in-contact-header"><em>Stay in contact</em></h1>
 
+                <label for="fname">First Name:</label>
+                <input id="fname" type="text" name="first_name" class="text-input" required>
+
+
+                <label for="sname">Second Name:</label>
+                <input id="sname" type="text" name="second_name" class="text-input" required>
+
+                <label for="email">Email:</label>
+                <input id="email" type="email" name="email" class="text-input" required>
+
+                <input type="submit" value="submit">
+            </form>
         </div>
 
         <!--Footer Section-->

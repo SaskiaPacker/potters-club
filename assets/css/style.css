@@ -365,12 +365,28 @@ td {
 
 #stay-in-contact-container {
     width: 100%;
-    height: 600px;
+    height: 500px;
 }
 
-#stay-in-contact-title {
+#stay-in-contact-header {
     font-size: 50px;
     padding: 10px 30px;
-    color: #30343f;
+    color: #f7f4ea;
     text-align: center;
+}
+
+/* form styling */
+
+#form-styling {
+    background-color: rgba(48, 52, 63, 0.2);
+    width: 300px;
+    height: 300px;
+    margin: 2% 33%;
+    padding: 5%;
+}
+
+.text-input {
+    border: solid 1px #30343f;
+    background-color: rgba(48, 52, 63, 0.2);
+
 }
