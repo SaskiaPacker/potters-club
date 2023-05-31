@@ -372,30 +372,66 @@ td {
     height: 100%;
 }
 
+/* form styling */
+
 #stay-in-contact-container {
     width: 100%;
     height: 500px;
 }
 
 #stay-in-contact-header {
-    font-size: 50px;
-    padding: 10px 30px;
-    color: #f7f4ea;
+    font-size: 65px;
+    color: #30343f;
     text-align: center;
 }
 
-/* form styling */
+#stay-in-contact-paragraph {
+    text-align: center;
+    color: #30343f;
+    line-height: 25px;
+    padding-top: 40px;
+}
 
 #form-styling {
-    background-color: rgba(48, 52, 63, 0.2);
-    width: 100%;
-    height: 300px;
-    margin-top: 3%;
-    padding: 5%;
+    background-color: #d9bbf9;
+    width: 55%;
+    height: 70%;
+    margin: 3% 20%;
+    padding: 4%;
+    line-height: 20px;
 }
 
 .text-input {
-    border: solid 1px #30343f;
-    background-color: rgba(48, 52, 63, 0.2);
+    border: solid 2px #30343f;
+    background: transparent;
+    border-radius: 5px;
+    height: 20px;
+    width: 100%;
+    margin: 5px;
 
+
+}
+
+#button-container {
+    padding-top: 3%;
+    padding-left: 45%;
+    padding-right: 45%;
+}
+
+.label-styling {
+    padding-left: 5px;
+}
+
+#button {
+    font-size: 20px;
+    color: #f7f4ea;
+    background-color: #30343f;
+    text-align: center;
+    height: 70px;
+    width: 120px;
+}
+
+#button:hover {
+    background-color: #f7f4ea;
+    color: #30343f;
 }
