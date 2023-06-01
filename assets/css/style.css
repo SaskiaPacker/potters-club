@@ -102,6 +102,7 @@ h3 {
 }
 
 #right-float-h2 {
+    /*
     float: right;
     font-family: playfair-display, serif;
     color: #30343f;
@@ -110,16 +111,30 @@ h3 {
     line-height: 600px;
     padding-left: 40px;
     padding-right: 30px;
+    */
+
+    text-align: center;
+    margin: 0;
+    position: absolute;
+    padding-top: 18%;
+    padding-right: 5%;
+    padding-left: 70%;
+    font-size: 40px;
+    line-height: 50px;
 }
 
 
 /* images */
 
 .hero-image {
+    /*
     height: 600px;
     width: 60%;
     position: relative;
     margin: 0 auto;
+    */
+    width: 65%;
+    height: 50%;
 }
 
 /* About us section */
@@ -187,9 +202,6 @@ h3 {
 #review-left {
     float: left;
     width: 28%;
-    /*
-    background-color: #d9bbf9;
-    */
     padding: 2%;
     margin: 1% 0;
     height: 80%;
@@ -200,9 +212,6 @@ h3 {
 #review-right {
     float: right;
     width: 28%;
-    /*
-    background-color: #d9bbf9;
-    */
     padding: 2%;
     margin: 1% 0;
     height: 80%;
@@ -215,9 +224,6 @@ h3 {
     display: inline-block;
     margin: 0 auto;
     width: 28%;
-    /*
-    background-color: #d9bbf9;
-    */
     padding: 2%;
     margin: 1% 0;
     height: 80%;
@@ -295,10 +301,10 @@ footer h2 {
 }
 
 .class-container {
-    width: 100%;
+    margin-right: 0px;
+    width: 90%;
     height: 200px;
-    margin: 10px 30px;
-    padding: 20px;
+    padding-left: 30px;
 }
 
 .class-heading {
@@ -308,14 +314,16 @@ footer h2 {
 }
 
 .class-container p {
-    width: 80%;
+    margin-right: 0;
+    width: 100%;
     line-height: 25px;
+
 }
 
-/* talbe section*/
+/* table section*/
 
 .table-container {
-    width: 100%;
+    width: 90%;
     height: 400px;
     padding: 2%;
 }
@@ -434,4 +442,28 @@ td {
 #button:hover {
     background-color: #f7f4ea;
     color: #30343f;
+}
+
+/* media queries*/
+
+@media screen and (min-width: 1800px) {
+
+    /*SORT OUT STRETCHING OF IMAGE ON CLASSES PAGE FROM 1427PX-1800PX*/
+    
+    #right-float-h2 {
+        font-size: 65px;
+        line-height: 70px;
+
+    }
+
+    #hero-image-class-section {
+        height: 100%;
+    }
+
+
+    #class-description-styling {
+        margin-left: 60px;
+    }
+
+
 }
