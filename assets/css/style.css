@@ -574,10 +574,31 @@ td {
         padding: 10px 10px;
 
     }
+/*
+    #about-us-title-styling {
+        padding-top: 0;
+        top:
+
+    }
+    */
+
+    .image-one {
+        height: 40%;
+        width: 50%;
+        position: relative;
+        padding-left: 10%;
+        padding-top: 10%;
+    }
 
     #background-about-us-styling {
         color: red;
         padding: 2px 2px 2px 10px;
-        width: 100%;
+        width: 90%;
 
     }
+
+    #right-float-h2 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+}
