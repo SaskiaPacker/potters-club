@@ -496,6 +496,10 @@ td {
     }
 
     #menu {
+        padding: 0;
+    }
+
+    #menu li {
         font-size: 18px;
         padding: 30px 30px;
     }
@@ -534,6 +538,10 @@ td {
     }
 
     #menu {
+        padding: 0;
+    }
+
+    #menu li {
         font-size: 18px;
         padding: 15px 15px;
     }
@@ -576,8 +584,13 @@ td {
     }
 
     #menu {
+        padding: 0;
+    }
+
+    #menu li {
         font-size: 14px;
         padding: 10px 10px;
+        margin-right: 20px;
 
     }
 
@@ -622,12 +635,16 @@ td {
     }
 
     #logo {
-        font-size: 60px;
+        font-size: 65px;
         padding-left: 10px;
     }
 
     #menu {
-        font-size: 14px;
+        padding: 0;
+    }
+
+    #menu li {
+        font-size: 12px;
         padding: 10px 5px;
 
     }
@@ -697,16 +714,168 @@ td {
         width: 100%;
     }
 
+    #form-styling {
+
+        width: 55%;
+        height: 65%;
+        margin: 5% 20%;
+        padding: 5%;
+        line-height: 20px;
+    }
+
     #stay-in-contact-header {
         font-size: 40px;
-        color: #30343f;
         text-align: center;
     }
 
     #stay-in-contact-paragraph {
+        font-size: 14px;
         text-align: center;
-        color: #30343f;
         line-height: 20px;
-        padding-top: 20px;
+        margin: 2px;
+        padding-top: 5%;
+    }
+
+    .text-input {
+        border: solid 2px #30343f;
+        background: transparent;
+        border-radius: 5px;
+        height: 20px;
+        width: 100%;
+        margin: 5px;
+    }
+
+    #button-container {
+        padding-top: 3%;
+        padding-left: 40%;
+        padding-right: 40%;
+    }
+
+
+    .label-styling {
+        padding-left: 5px;
+        font-size: 14px;
+    }
+
+
+    #button {
+        font-size: 14px;
+        height: 50px;
+        width: 100px;
+    }
+
+}
+
+/* For smaller screen 600px and down*/
+
+@media screen and (max-width: 600px) {
+    body {
+        font-size: 13px;
+    }
+
+    #logo {
+        font-size: 45px;
+        padding-left: 10px;
+    }
+
+    #menu {
+        padding: 0;
+    }
+
+    #menu li {
+        font-size: 10px;
+        padding-right: 5px;
+        margin-right: 10px;
+
+    }
+
+    #right-float-h2 {
+        font-size: 20px;
+        line-height: 25px;
+
+    }
+
+    .title-style {
+        font-size: 45px;
+        margin: 5px 0 5px 5px;
+        padding: 10px;
+        margin-top: 70px;
+    }
+
+    .review-styling {
+        line-height: 30px;
+    }
+
+    #class-title {
+        padding-left: 0;
+        height: 30px;
+    }
+
+    .table-container {
+        padding-left: 0;
+    }
+
+    table {
+        width: 100%;
+    }
+
+    #class-description-styling {
+        margin-left: 10px;
+    }
+
+
+    td,
+    tr,
+    th {
+        font-size: 10px;
+    }
+
+    #form-styling {
+
+        width: 60%;
+        height: 70%;
+        margin: 5% 15%;
+        padding: 8%;
+        line-height: 20px;
+    }
+
+    #stay-in-contact-paragraph {
+        font-size: 14px;
+        line-height: 20px;
+        margin: 2px;
+        padding-top: 8%;
+        padding-bottom: 5%;
+    }
+
+    #button-container {
+        padding-top: 5%;
+        padding-left: 35%;
+        padding-right: 35%;
+    }
+
+
+}
+
+/* For small screen 450px and down*/
+
+@media screen and (max-width: 450px) {
+    body {
+        font-size: 13px;
+    }
+
+    #logo {
+        font-size: 30px;
+        padding-left: 10px;
+    }
+
+    #menu {
+        padding: 0;
+    }
+
+    #menu li {
+        font-size: 8px;
+        padding-right: 5px;
+        margin-right: 10px;
+
     }
 }
