@@ -864,7 +864,7 @@ td {
     }
 
     #logo {
-        font-size: 30px;
+        font-size: 50px;
         padding-left: 10px;
     }
 
@@ -873,9 +873,32 @@ td {
     }
 
     #menu li {
-        font-size: 8px;
+        font-size: 12px;
         padding-right: 5px;
+        margin-top: 50px;
         margin-right: 10px;
 
     }
-}
+
+    #right-float-h2 {
+        padding-top: 15%;
+        font-size: 15px;
+        line-height: 20px;
+
+    }
+
+    .image-one {
+        width: 40%;
+        padding-left: 2%;
+
+    }
+
+    #background-about-us-styling {
+        padding: 30px 2px 2px 20px;
+        width: 100%;
+        margin: 0;
+    }
+
+    .title-style {
+        font-size: 40px;
+    }
