@@ -860,7 +860,8 @@ td {
 
 @media screen and (max-width: 450px) {
     body {
-        font-size: 13px;
+        font-size: 12px;
+        line-height: -10px;
     }
 
     #logo {
@@ -888,17 +889,110 @@ td {
     }
 
     .image-one {
-        width: 40%;
+        width: 45%;
         padding-left: 2%;
 
     }
 
     #background-about-us-styling {
-        padding: 30px 2px 2px 20px;
-        width: 100%;
+        padding: 10px 2px 2px 20px;
+        width: 60%;
         margin: 0;
     }
 
     .title-style {
         font-size: 40px;
+        margin-top: 30px;
     }
+
+    #review-right {
+        text-align: left;
+        margin-left: 10px;
+        width: 90%;
+    }
+
+    #review-center {
+        text-align: left;
+        margin-left: 10px;
+        width: 90%;
+    }
+
+
+    #review-left {
+        text-align: left;
+        margin-left: 10px;
+        width: 90%;
+    }
+
+    #iframe-container {
+        margin-top: 20px;
+        height: 50%;
+    }
+
+    #footer-container {
+        width: 100%;
+        min-height: 20vh;
+        display: flex;
+        flex-direction: column;
+    }
+
+    footer h2 {
+        padding-top: 20px;
+        font-size: 20px;
+    }
+
+    .social-icon-style i {
+        font-size: 150%;
+        padding: 20px;
+        line-height: 20px;
+    }
+
+    td,
+    tr,
+    th {
+        font-size: 8px;
+    }
+
+    .class-container {
+        height: 350px;
+    }
+
+    table {
+        margin-top: 30px;
+        height: 250px;
+    }
+
+    #form-styling {
+
+        width: 70%;
+        height: 80%;
+        margin: 5% 10%;
+        padding: 8%;
+        line-height: 20px;
+    }
+
+    #stay-in-contact-header {
+        font-size: 40px;
+        line-height: 35px;
+    }
+
+    #stay-in-contac-paragraph {
+        font-size: 14px;
+        line-height: 25px;
+        margin: 2px;
+        padding-top: 8%;
+        padding-bottom: 5%;
+    }
+
+    #button-container {
+        padding-top: 5%;
+        padding-left: 35%;
+        padding-right: 35%;
+    }
+
+    #button-container {
+        padding-top: 5%;
+        padding-left: 31%;
+        padding-right: 31%;
+    }
+}
