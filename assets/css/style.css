@@ -237,6 +237,11 @@ h3 {
     margin-top: 20px;
 }
 
+iframe {
+    height: 100%;
+    width: 100%;
+}
+
 /* footer-section*/
 
 #footer-container {
