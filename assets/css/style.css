@@ -484,6 +484,20 @@ td {
         margin: 3% 30%
     }
 
+    /* Thank you for siging up styling*/
+
+    #signing-up-page-header {
+        margin-top: 30px;
+        font-family: source source-sans-pro, sans-serif;
+        font-weight: 700;
+        font-size: 80px
+    }
+
+    #signing-up-page-paragraph {
+        font-family: source source-sans-pro, sans-serif;
+        font-weight: 500;
+        font-size: 18px;
+    }
 }
 
 
