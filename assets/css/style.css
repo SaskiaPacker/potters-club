@@ -153,9 +153,8 @@ h3 {
 }
 
 #background-about-us-styling {
-    border: 10%;
     padding: 5% 10% 10% 5%;
-    margin: 0 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
     text-align: left;
     width: 30%;
     height: 100%;
@@ -444,6 +443,25 @@ td {
     color: #30343f;
 }
 
+/* Thank you for siging up styling*/
+
+#signing-up-page-header {
+    height: 100px;
+    width: 90%;
+    margin-top: 30px;
+    font-family: source source-sans-pro, sans-serif;
+    font-weight: 700;
+    font-size: 80px
+}
+
+#signing-up-page-paragraph {
+    height: 100px;
+    width: 90%;
+    font-family: source source-sans-pro, sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+}
+
 /* media queries*/
 
 /* for large screens 2000px and down */
@@ -482,21 +500,6 @@ td {
         width: 40%;
         height: 65%;
         margin: 3% 30%
-    }
-
-    /* Thank you for siging up styling*/
-
-    #signing-up-page-header {
-        margin-top: 30px;
-        font-family: source source-sans-pro, sans-serif;
-        font-weight: 700;
-        font-size: 80px
-    }
-
-    #signing-up-page-paragraph {
-        font-family: source source-sans-pro, sans-serif;
-        font-weight: 500;
-        font-size: 18px;
     }
 }
 
@@ -539,7 +542,7 @@ td {
     #button-container {
         padding-top: 3%;
         padding-left: 40%;
-        padding-right: 40;
+        padding-right: 40%;
     }
 }
 
@@ -875,7 +878,6 @@ td {
 @media screen and (max-width: 450px) {
     body {
         font-size: 12px;
-        line-height: -10px;
     }
 
     #logo {
