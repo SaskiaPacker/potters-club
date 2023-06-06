@@ -318,6 +318,11 @@ footer h2 {
     margin-right: 0;
     width: 100%;
     line-height: 25px;
+}
+
+#book-classes-container {
+    width: 90%;
+    height: 200px;
 
 }
 
