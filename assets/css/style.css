@@ -449,11 +449,18 @@ td {
 }
 
 /* Thank you for siging up styling*/
+#signing-up-container {
+    height: 1000px;
+    width: 100%;
+    margin-top: 30px;
+}
 
 #signing-up-page-header {
     height: 100px;
     width: 90%;
-    margin-top: 30px;
+    margin-top: 20px;
+    padding-top: 200px;
+    padding-left: 30px;
     font-family: source source-sans-pro, sans-serif;
     font-weight: 700;
     font-size: 80px
@@ -462,9 +469,11 @@ td {
 #signing-up-page-paragraph {
     height: 100px;
     width: 90%;
+    padding-left: 30px;
+    padding-top: 80px;
     font-family: source source-sans-pro, sans-serif;
     font-weight: 500;
-    font-size: 18px;
+    font-size: 30px;
 }
 
 /* media queries*/
@@ -549,6 +558,22 @@ td {
         padding-left: 40%;
         padding-right: 40%;
     }
+
+    #signing-up-page-header {
+        height: 100px;
+        width: 90%;
+        padding-top: 170px;
+        font-size: 50px;
+        line-height: 55px;
+    }
+
+    #signing-up-page-paragraph {
+        height: 100px;
+        width: 90%;
+        padding-top: 40px;
+        font-size: 20px;
+        line-height: 30px;
+    }
 }
 
 /* For medium screeen 1200px and down*/
@@ -588,6 +613,22 @@ td {
         height: 70%;
         margin: 3% 20%;
         padding: 6%;
+    }
+
+    #signing-up-page-header {
+        height: 100px;
+        width: 90%;
+        padding-top: 170px;
+        font-size: 50px;
+        line-height: 55px;
+    }
+
+    #signing-up-page-paragraph {
+        height: 100px;
+        width: 90%;
+        padding-top: 40px;
+        font-size: 20px;
+        line-height: 30px;
     }
 }
 
@@ -645,6 +686,22 @@ td {
     #class-title {
         height: 50px;
         margin-top: 3%;
+    }
+
+    #signing-up-page-header {
+        height: 100px;
+        width: 90%;
+        padding-top: 150px;
+        font-size: 50px;
+        line-height: 55px;
+    }
+
+    #signing-up-page-paragraph {
+        height: 100px;
+        width: 90%;
+        padding-top: 40px;
+        font-size: 20px;
+        line-height: 30px;
     }
 }
 
@@ -786,6 +843,22 @@ td {
         width: 100px;
     }
 
+    #signing-up-page-header {
+        height: 100px;
+        width: 90%;
+        padding-top: 150px;
+        font-size: 50px;
+        line-height: 55px;
+    }
+
+    #signing-up-page-paragraph {
+        height: 100px;
+        width: 90%;
+        padding-top: 40px;
+        font-size: 20px;
+        line-height: 30px;
+    }
+
 }
 
 /* For smaller screen 600px and down*/
@@ -873,6 +946,22 @@ td {
         padding-top: 5%;
         padding-left: 35%;
         padding-right: 35%;
+    }
+
+    #signing-up-page-header {
+        height: 100px;
+        width: 90%;
+        padding-top: 150px;
+        font-size: 40px;
+        line-height: 45px;
+    }
+
+    #signing-up-page-paragraph {
+        height: 100px;
+        width: 90%;
+        padding-top: 40px;
+        font-size: 20px;
+        line-height: 25px;
     }
 
 
@@ -1015,5 +1104,22 @@ td {
         padding-top: 5%;
         padding-left: 31%;
         padding-right: 31%;
+    }
+
+    #signing-up-page-header {
+        height: 100px;
+        width: 90%;
+        padding-top: 150px;
+        padding-left: 30px;
+        font-size: 30px;
+        line-height: 35px;
+    }
+
+    #signing-up-page-paragraph {
+        height: 100px;
+        width: 90%;
+        padding-top: 10px;
+        font-size: 16px;
+        line-height: 20px;
     }
 }
