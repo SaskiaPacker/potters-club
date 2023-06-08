@@ -29,7 +29,13 @@ My idea for this project was to create a website for people who wanted to be abl
     - [Landing Page](#landing-page)
     - [About us](#about-us)
     - [Reviews](#reviews)
-    - [Video and Footer](#video-and-footer)
+    - [Video](#video-1)
+    - [Classes](#classes)
+    - [Timetable](#timetable)
+    - [Stay in contact](#stay-in-contact)
+    - [Footer](#footer)
+    - [Future Features:](#future-features)
+- [Testing](#testing)
 
 # UX
 ### Site Purpose
@@ -100,5 +106,38 @@ The about us section is situated directly below the landing page, with a short i
 ![Navigation Bar](/assets/images-readme/reviews.png)
 Sitatued directly below the about us section, is a small review section, which give the audience an idea of how other people have found the classes, which is designed to encourage the audience to book.
 
-### Video and Footer 
+### Video 
+![Navigation Bar](/assets/images-readme/video.png)
+Below the reviews page is a video, I wanted it to be fun and interactive and show the audience how easy it is to make a mug and how fun it can be. Also to show them the process of making something from clay. 
+
+### Classes
+![Navigation Bar](/assets/images-readme/classes.png)
+
+The website features a classes page where the audience can get a better understanding of the classes that are held and what level they should start at. 
+
+### Timetable
+![Navigation Bar](/assets/images-readme/timetable.png)
+Directly below the classes page is information on when the classes are held and how to book them.
+
+### Stay in contact
+![Navigation Bar](/assets/images-readme/stay-in-contact.png)
+
+The website also offers a feature where you can sign up to stay in contact with potters club, where you can hear more about future classes, speakers and special workshops they will run.
+
+### Footer
+![Navigation Bar](/assets/images-readme/footer.png)
+
+A comment has been added to the footer, to show that the website is for education purposes only, as I don't own the rights to the video. The video has been credited in this document. 
+
+The social links all sit within the footer, which you are able to click and they will take you to the intended social media platform.
+
+### Future Features:
+- Class booking feature online
+- A feature where you can see how many people have booked the same class as you
+- More in-depth class description
+- A feature where you view talks from artists who haee come into the studio
+
+# Testing
+When running my code through the validator the iframe feature didn't like that I originally had a with and height percentage dimension in the iframe tag. To resolve this, I took the percentage dimensions out of the iframe tag and set them in the css styling.
+
 
