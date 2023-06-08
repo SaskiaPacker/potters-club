@@ -270,6 +270,11 @@ footer h2 {
     padding-top: 30px;
 }
 
+#footer-description {
+    color: #f7f4ea;
+    text-align: center;
+}
+
 .social-icon-style {
     text-align: center;
 }
@@ -683,6 +688,10 @@ td {
 
     }
 
+    #footer-description {
+        padding-top: 20px;
+    }
+
     #right-float-h2 {
         font-size: 25px;
         line-height: 35px;
@@ -737,6 +746,11 @@ td {
         font-size: 20px;
         line-height: 25px;
 
+    }
+
+
+    #footer-description {
+        padding-top: 20px;
     }
 
     .review-line-height-styling {
@@ -895,6 +909,10 @@ td {
 
     }
 
+    #footer-description {
+        padding-top: 15px;
+    }
+
     .title-style {
         font-size: 45px;
         margin: 5px 0 5px 5px;
@@ -1003,6 +1021,7 @@ td {
 
     }
 
+
     .image-one {
         width: 45%;
         padding-left: 2%;
@@ -1054,6 +1073,10 @@ td {
     footer h2 {
         padding-top: 20px;
         font-size: 20px;
+    }
+
+    #footer-description {
+        padding-top: 10px;
     }
 
     .social-icon-style i {
