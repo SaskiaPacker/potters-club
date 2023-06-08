@@ -101,4 +101,4 @@ The about us section is situated directly below the landing page, with a short i
 Sitatued directly below the about us section, is a small review section, which give the audience an idea of how other people have found the classes, which is designed to encourage the audience to book.
 
 ### Video and Footer 
-![Navigation Bar](/assets/images-readme/video.png)
+
