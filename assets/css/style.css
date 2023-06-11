@@ -97,17 +97,6 @@ h3 {
 }
 
 #right-float-h2 {
-    /*
-    float: right;
-    font-family: playfair-display, serif;
-    color: #30343f;
-    text-align: left;
-    font-size: 200%;
-    line-height: 600px;
-    padding-left: 40px;
-    padding-right: 30px;
-    */
-
     text-align: center;
     margin: 0;
     position: absolute;
@@ -122,12 +111,6 @@ h3 {
 /* images */
 
 .hero-image {
-    /*
-    height: 600px;
-    width: 60%;
-    position: relative;
-    margin: 0 auto;
-    */
     width: 65%;
     height: 50%;
 }
@@ -249,15 +232,6 @@ iframe {
     min-height: 20vh;
     display: flex;
     flex-direction: column;
-    /*
-    position: sticky;
-    left: 0;
-    bottom: 0;
-    top: 0;
-    width: 100%;
-    height: 200px;
-    color: #f7f4ea
-    */
 }
 
 footer h2 {
@@ -375,12 +349,6 @@ td {
     overflow: hidden;
 }
 
-/*
-#image-tiling-container>img {
-    width: 100px;
-}
-*/
-
 
 .image-tiling-style {
     width: 100%;
@@ -431,7 +399,6 @@ td {
 
 
 }
-
 
 #button-container {
     padding-top: 3%;
@@ -1083,6 +1050,10 @@ td {
         font-size: 150%;
         padding: 20px;
         line-height: 20px;
+    }
+
+    #to-book-container {
+        height:auto;
     }
 
     td,
