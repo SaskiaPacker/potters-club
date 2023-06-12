@@ -42,6 +42,7 @@ My idea for this project was to create a website for people who wanted to be abl
 - [Deployment](#deployment)
 - [Credits](#credits)
     - [Media](#media)
+    - [YouTube](#youtube)
 
 # UX
 ### Site Purpose
@@ -212,5 +213,20 @@ I would like to thank Angelica Guimaraes, as I took inspiration from her CSS to 
 I would also like to credit this Stack Overflow [reply](https://stackoverflow.com/questions/2603700/how-to-align-3-divs-left-center-right-inside-another-div), which allowed me to be able to get my reviews to sit next to each other white sitting in a div.
 
 ### Media
-All of my images are sourced from unsplash.com or pexels.com 
-
+All of my images are sourced from unsplash.com and pexels.com
+- [ Brown and gray metal tool by Taylor Heery](https://unsplash.com/photos/ZSgWcW70cTs)
+- [Assorted pottery by Viviane Okubo](https://unsplash.com/photos/2ZnkIsutb4g)
+- [White and brown ceramic vase by Chole Bolton](https://unsplash.com/photos/R0qthXq3jec)
+- [Green ceramic mug on green ceramic saucer by Toa Heftiba](https://unsplash.com/photos/yN33yGmulWE)
+- [Ceramic utensils lot close-up photography by Ellen Tanner](https://unsplash.com/photos/upuQB6JU9fY)
+- [A Woman in Beige Long Sleeves Teaching a Woman Standing Beside Her How to Mold a Clay](https://www.pexels.com/photo/a-woman-in-beige-long-sleeves-teaching-a-woman-standing-beside-her-how-to-mold-a-clay-6694742/)
+- [Image by Aedrian](https://unsplash.com/photos/BshM9VkzGw8)
+- [White ceramic mug on white table by Diana Light](https://unsplash.com/photos/u_jt9A7FADk)
+- [White and brown ceramic bowls by Vladimir Gladkov](https://unsplash.com/photos/NPPIq1XFdck)
+- [A woman is painting a white vase on a table by Pew Nguyen](https://unsplash.com/photos/qQBI7IG7UV0)
+- [White and green ceramic floral mugs by Chole Bolton](https://unsplash.com/photos/L_bXRw-bZ9I)
+- [Person in white shirt and blue denim jeans by Courtney Cook](https://unsplash.com/photos/QRVSQH7OeX4)
+- [Person doing clay containers by Andy Kelly](https://unsplash.com/photos/P21tYLUo_PI)
+  
+### YouTube
+- [how to make a ceramic mug ~ no wheel required pottery from home by Lolita Olympia](https://www.youtube.com/watch?v=JzE3g9KrdOQ&ab_channel=LolitaOlympia)
