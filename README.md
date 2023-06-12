@@ -1,6 +1,6 @@
 # Potters Club
 
-*I would just like to state that I am dsylexic, so if there is gramatical erros or mistake please bare with me.*
+*I would just like to state that I am dsylexic, so if there is grammatical errors or mistake please bare with me.*
 
 My idea for this project was to create a website for people who wanted to be able to take a pottery class. They can find out about Potters Club, what they do, what classes they run and the audience can also keep in contact by signing up to hear about talks, special classes they might want to attend.
 
@@ -18,7 +18,7 @@ My idea for this project was to create a website for people who wanted to be abl
   - [Communication](#communication)
 - [Design](#design)
     - [Wireframes](#wireframes)
-    - [Colour Pallette](#colour-pallette)
+    - [Colour Palette](#colour-palette)
     - [Typography](#typography)
     - [Imagery](#imagery)
     - [Video](#video)
@@ -58,29 +58,29 @@ Anybody that wants to learn and has an interest about the pottery. The primary t
 
 ### New User Goal
 - To learn about the studio and what we do. 
-- Find which class is appropreiate for them to start with and how to book that. 
+- Find which class is appropriate for them to start with and how to book that. 
 - To sign up so they can keep in contact and hear about special classes that we do, talks and workshops.
 
 ## Communication
-I wanted to soften the harsh white background and give a connotation of clay, this is why I haved used an off cream color for the background. I wanted the typeface to be clear and communicative, which is why I chose a serif typeface for titles as they are easier to read at larger scales. To make the body copy eaier to read, I chose a sans serif typeface as they are more clear at a smaller scale.
+I wanted to soften the harsh white background and give a connotation of clay, this is why I have used an off cream colour for the background. I wanted the typeface to be clear and communicative, which is why I chose a serif typeface for titles as they are easier to read at larger scales. To make the body copy easier to read, I chose a sans serif typeface as they are more clear at a smaller scale.
 
 The information is easy to read and navigate and the images are large enough to view easily on screen.
 
 # Design
 ### Wireframes
-I cerated my wireframes by hand, sketching the layout and flow of the website and jotting down what content would go where. This allows me to see how the flow fo the website will work and if it's navitgation and asthetic work well together.
+I cerated my wireframes by hand, sketching the layout and flow of the website and jotting down what content would go where. This allows me to see how the flow of the website will work and if it's navigation and aesthetic work well together.
 
 ![Wireframe one](/assets/images-readme/wireframe-one.jpg)
 ![Wireframe two](/assets/images-readme/wireframe-two.jpg)
 ![Wireframe three](/assets/images-readme/wireframe-three.jpg)
 ![Wireframe four](/assets/images-readme/wireframe-four.jpg)
 
-### Colour Pallette
-The colour pallette was sourced from [coolors](https://coolors.co/) I wanted to keep the colour theme very muted, to give the essence of earth-toned and remind the audience they would be working with nautral materials. To make the audience feel relaxed when they opened the webpage and take away the harsh white background, I chose for the off cream to be the background colour and to make sure the typography contrasted against the background, I chose the off grey colour.
+### Colour Palette
+The colour palette was sourced from [coolors](https://coolors.co/) I wanted to keep the colour theme very muted, to give the essence of earth-toned and remind the audience they would be working with natural materials. To make the audience feel relaxed when they opened the webpage and take away the harsh white background, I chose for the off cream to be the background colour and to make sure the typography contrasted against the background, I chose the off grey colour.
 ![Colour Pallette](/assets/images-readme/colour-palette.png)
 
 ### Typography
-My typgoraphy was sourced from [Google Fonts](https://fonts.google.com/). I wanted to have contrasting typefaces so they were easily distinguishable and contrast against one another. All of the titles are Play Fair display and the body copy is called Source Sans Pro. I checked that they paired well togeher, as they I sourced the pairing from Google Fonts.
+My typography was sourced from [Google Fonts](https://fonts.google.com/). I wanted to have contrasting typefaces so they were easily distinguishable and contrast against one another. All of the titles are Play Fair display and the body copy is called Source Sans Pro. I checked that they paired well together, as they I sourced the pairing from Google Fonts.
 
 ### Imagery
 All imagery for the website has been sourced from either [pexel.com](https://www.pexels.com/) or [unsplash.com](https://unsplash.com/) which are free photo stock platforms. I specifically wanted to show imagery of all the stages of pottery, so the audience can get an understanding of the process.
@@ -101,7 +101,7 @@ This is included on all three pages and provides an easy structure for the audie
 ### Landing Page
 ![landing page](/assets/images-readme/landing-page-screenshot.png)
 
-The landing page is displayed above. The image sits flush off the page, to give an incentive for the audience to scroll down. I wanted a compelling sentence next to the image to draw the audience in and make them ingtruigued to explore the web page further. The image spans over 50% of the width as I wanted the image to really draw in the audience's attention. 
+The landing page is displayed above. The image sits flush off the page, to give an incentive for the audience to scroll down. I wanted a compelling sentence next to the image to draw the audience in and make them intrigued to explore the web page further. The image spans over 50% of the width as I wanted the image to really draw in the audience's attention. 
 
 ### About us
 ![about us page](/assets/images-readme/about-us-page.png)
@@ -109,7 +109,7 @@ The about us section is situated directly below the landing page, with a short i
 
 ### Reviews
 ![reviews](/assets/images-readme/reviews.png)
-Sitatued directly below the about us section, is a small review section, which give the audience an idea of how other people have found the classes, which is designed to encourage the audience to book.
+Situated directly below the about us section, is a small review section, which give the audience an idea of how other people have found the classes, which is designed to encourage the audience to book.
 
 ### Video 
 ![video](/assets/images-readme/video.png)
@@ -136,7 +136,7 @@ The website also offers a feature where you can sign up to stay in contact with 
 ### Footer
 ![footer](/assets/images-readme/footer.png)
 
-A comment has been added to the footer, to show that the website is for education purposes only, as I don't own the rights to the video. The video has been credited in this document. 
+A comment has been added to the footer, too show that the website is for education purposes only, as I don't own the rights to the video. The video has been credited in this document. 
 
 The social links all sit within the footer, which you are able to click and they will take you to the intended social media platform.
 
@@ -151,9 +151,9 @@ The social links all sit within the footer, which you are able to click and they
 # Testing
 When running my code through the validator the iframe feature didn't like that I originally had a with and height percentage dimension in the iframe tag. To resolve this, I took the percentage dimensions out of the iframe tag and set them in the css styling.
 
-When running through my html through the W3C validator, initially a few things came that I need to close certain tags or take away section symantics, once I had done this, my html passed without any errors. 
+When running through my html through the W3C validator, initially a few things came that I need to close certain tags or take away section semantics, once I had done this, my html passed without any errors. 
 
-When making my website, when going larger than the screen I designed it on, there weren't too many changes I had to make. However, when the screen started getting smaller, that's when I came accross the most challenges. It was mainly in re-sizing of images, the logo, navigation bar and the table size on the classes page. This was rectified with trail and error, however I eventually got there. 
+When making my website, when going larger than the screen I designed it on, there weren't too many changes I had to make. However, when the screen started getting smaller, that's when I came across the most challenges. It was mainly in re-sizing of images, the logo, navigation bar and the table size on the classes page. This was rectified with trail and error, however I eventually got there. 
 
 Initially I had the writing next to the hero image as an in-line block with a huge line height. I then fixed this through making the position relative and setting the position percentages. This was a much a more effective way of getting the desired style that I wanted.
 
@@ -175,7 +175,7 @@ Another issues that was resolved, an error kept on coming up about my imported t
 - All external links open in new tabs and arrive at the desired website. 
 
 ### Unfixed Bugs 
-When the website is at it's smallest size, the leading/line height of the body copy is slightly too large and the image on the main section sits slightly too small. However, I don't think this takes away from the design too much. I intend to spend more time on this website and be able to fix those buges.
+When the website is at it's smallest size, the leading/line height of the body copy is slightly too large and the image on the main section sits slightly too small. However, I don't think this takes away from the design too much. I intend to spend more time on this website and be able to fix those bugs.
 
 # Libraries and Programs used
 - Github: Store Repository
@@ -183,7 +183,7 @@ When the website is at it's smallest size, the leading/line height of the body c
 - Google Fonts: Font family 'Playfair Display' and 'Source Sans'
 - Google Chrome Dev Tools: To help with styling the media queries
 - Safari: Site testing on an alternative browser
-- Font Awesome: Socail media icons
+- Font Awesome: Social media icons
 - Am I responsive: Screenshots of the final project for the README file
 
 # Deployment
@@ -215,7 +215,7 @@ I would also like to credit this Stack Overflow [reply](https://stackoverflow.co
 All of my images are sourced from unsplash.com and pexels.com
 - [ Brown and gray metal tool by Taylor Heery](https://unsplash.com/photos/ZSgWcW70cTs)
 - [Assorted pottery by Viviane Okubo](https://unsplash.com/photos/2ZnkIsutb4g)
-- [White and brown ceramic vase by Chole Bolton](https://unsplash.com/photos/R0qthXq3jec)
+- [White and brown ceramic vase by Chloe Bolton](https://unsplash.com/photos/R0qthXq3jec)
 - [Green ceramic mug on green ceramic saucer by Toa Heftiba](https://unsplash.com/photos/yN33yGmulWE)
 - [Ceramic utensils lot close-up photography by Ellen Tanner](https://unsplash.com/photos/upuQB6JU9fY)
 - [A Woman in Beige Long Sleeves Teaching a Woman Standing Beside Her How to Mold a Clay](https://www.pexels.com/photo/a-woman-in-beige-long-sleeves-teaching-a-woman-standing-beside-her-how-to-mold-a-clay-6694742/)
@@ -223,7 +223,7 @@ All of my images are sourced from unsplash.com and pexels.com
 - [White ceramic mug on white table by Diana Light](https://unsplash.com/photos/u_jt9A7FADk)
 - [White and brown ceramic bowls by Vladimir Gladkov](https://unsplash.com/photos/NPPIq1XFdck)
 - [A woman is painting a white vase on a table by Pew Nguyen](https://unsplash.com/photos/qQBI7IG7UV0)
-- [White and green ceramic floral mugs by Chole Bolton](https://unsplash.com/photos/L_bXRw-bZ9I)
+- [White and green ceramic floral mugs by Chloe Bolton](https://unsplash.com/photos/L_bXRw-bZ9I)
 - [Person in white shirt and blue denim jeans by Courtney Cook](https://unsplash.com/photos/QRVSQH7OeX4)
 - [Person doing clay containers by Andy Kelly](https://unsplash.com/photos/P21tYLUo_PI)
   
