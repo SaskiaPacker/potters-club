@@ -23,7 +23,6 @@ My idea for this project was to create a website for people who wanted to be abl
     - [Imagery](#imagery)
     - [Video](#video)
 - [Features](#features)
-  - [Existing Features](#existing-features)
     - [Languages  used](#languages--used)
     - [Navigation Bar](#navigation-bar)
     - [Landing Page](#landing-page)
@@ -63,13 +62,13 @@ Anybody that wants to learn and has an interest about the pottery. The primary t
 - To sign up so they can keep in contact and hear about special classes that we do, talks and workshops.
 
 ## Communication
-I wanted to soften the harsh white background and give a connotation of clay, hence using the off cream color for the background. In addition to this, I wanted the typeface to be clear and communicative, this is why I chose a serif typeface for titles and to make the body copy eaier to read, I chose a sans serif typeface.
+I wanted to soften the harsh white background and give a connotation of clay, this is why I haved used an off cream color for the background. I wanted the typeface to be clear and communicative, which is why I chose a serif typeface for titles as they are easier to read at larger scales. To make the body copy eaier to read, I chose a sans serif typeface as they are more clear at a smaller scale.
 
 The information is easy to read and navigate and the images are large enough to view easily on screen.
 
 # Design
 ### Wireframes
-I cerated my wireframes by hand, sketching out the layout and flow of the website and jotting down what content would go where. This allows me to see how the flow fo the website will work and if it's navitgation and asthetic work well together.
+I cerated my wireframes by hand, sketching the layout and flow of the website and jotting down what content would go where. This allows me to see how the flow fo the website will work and if it's navitgation and asthetic work well together.
 
 ![Wireframe one](/assets/images-readme/wireframe-one.jpg)
 ![Wireframe two](/assets/images-readme/wireframe-two.jpg)
@@ -77,26 +76,25 @@ I cerated my wireframes by hand, sketching out the layout and flow of the websit
 ![Wireframe four](/assets/images-readme/wireframe-four.jpg)
 
 ### Colour Pallette
-The colour pallette was sourced from coolors.co. I wanted to keep the colour theme very muted, to give the essence of earth-toned and remind the audience they would be working with nautral materials. To make the audience feel relaxed when they opened the webpage and take away the harsh white background, I chose for the off cream to be the background colour and to make sure the typography contrasted against the background, I chose the off grey colour.
+The colour pallette was sourced from [coolors](https://coolors.co/) I wanted to keep the colour theme very muted, to give the essence of earth-toned and remind the audience they would be working with nautral materials. To make the audience feel relaxed when they opened the webpage and take away the harsh white background, I chose for the off cream to be the background colour and to make sure the typography contrasted against the background, I chose the off grey colour.
 ![Colour Pallette](/assets/images-readme/colour-palette.png)
 
 ### Typography
-My typgoraphy was sourced from Google Fonts. I wanted to have a contrasting typefaces so they were easily distinguishable and contrast against one another. All of the titles are Play Fair display ad the body copy is called Source Sans Pro. I checked that they paired well togeher, as they I sourced the pairing from Google Fonts.
+My typgoraphy was sourced from [Google Fonts](https://fonts.google.com/). I wanted to have contrasting typefaces so they were easily distinguishable and contrast against one another. All of the titles are Play Fair display and the body copy is called Source Sans Pro. I checked that they paired well togeher, as they I sourced the pairing from Google Fonts.
 
 ### Imagery
-All imagery for the website has been sourced from either pexel.com or unsplash.com which are free photo stock platforms. I specifically wanted to show imagery of all the stages of pottery, so the audience can get an understanding of the process.
+All imagery for the website has been sourced from either [pexel.com](https://www.pexels.com/) or [unsplash.com](https://unsplash.com/) which are free photo stock platforms. I specifically wanted to show imagery of all the stages of pottery, so the audience can get an understanding of the process.
 
 ### Video
-The video is sourced from Youtube and is credited in the credits section of this document. I wanted a fun interactive video, that showed the process of making something from clay, to show the audience and hopefully encourage them to sign up to a course using our website. 
+The video is sourced from [Youtube](https://www.youtube.com/) and is credited in the credits section of this document. I wanted a fun interactive video, that showed the process of making something from clay, to show the audience and hopefully encourage them to sign up to a course using our website.
 
 # Features
-## Existing Features
 ### Languages  used
 - HTML 
 - CSS
 
 ### Navigation Bar
-This is included on all three pages and provides an easy structure for the audience to be able to use. This is a responsive feature and remain this way, until 450px and down where the navigation bar moves under logo, so the design of both of these features isn't compromised. 
+This is included on all three pages and provides an easy structure for the audience to be able to use. This is a responsive feature and remains this way, until 450px and down where the navigation bar moves under logo, so the design of both of these features isn't compromised. 
 
 ![navigation bar](/assets/images-readme/nav-bar-screenshot.png)
 
@@ -115,7 +113,7 @@ Sitatued directly below the about us section, is a small review section, which g
 
 ### Video 
 ![video](/assets/images-readme/video.png)
-Below the reviews page is a video, I wanted it to be fun and interactive and show the audience how easy it is to make a mug and how fun it can be. Also to show them the process of making something from clay. 
+Below the reviews page is a video. I wanted it to be fun and interactive and show the audience how easy it is to make a mug and how fun it can be. Also to show them the process of making something from clay. 
 
 ### Classes
 ![classes description](/assets/images-readme/classes-image.png)
@@ -146,17 +144,18 @@ The social links all sit within the footer, which you are able to click and they
 - Class booking feature online
 - A feature where you can see how many people have booked the same class as you
 - More in-depth class description
-- A feature where you view talks from artists who haee come into the studio
+- A feature where you view talks from artists who have come into the studio
 - A feature where you can buy the pottery made in the studio on the website
+- An interactive review section, where different ones appear and then fade away
 
 # Testing
 When running my code through the validator the iframe feature didn't like that I originally had a with and height percentage dimension in the iframe tag. To resolve this, I took the percentage dimensions out of the iframe tag and set them in the css styling.
 
-when running through my html through the W3C validator, initially a few things came that I need to close certain tags or take away section symantics, once I had done this, my html passed without any errors. 
+When running through my html through the W3C validator, initially a few things came that I need to close certain tags or take away section symantics, once I had done this, my html passed without any errors. 
 
-When making my website, when going larger that my screen I designed it on, there weren't too many changes I had to make. However, when the screen started getting smaller, that's when I came accross the most challenges. It was mainly in re-sizing of images, the logo, navigation bar and the table size on the classes page. This was rectified with trail and error, however I eventually got there. 
+When making my website, when going larger than the screen I designed it on, there weren't too many changes I had to make. However, when the screen started getting smaller, that's when I came accross the most challenges. It was mainly in re-sizing of images, the logo, navigation bar and the table size on the classes page. This was rectified with trail and error, however I eventually got there. 
 
-Initially I had the writing next to the hero image as an in-line block with a huge line height. I then fixed this through making the position relative and setting the position percentages. This was a much a more effective way of getitng the desired style that I wanted.
+Initially I had the writing next to the hero image as an in-line block with a huge line height. I then fixed this through making the position relative and setting the position percentages. This was a much a more effective way of getting the desired style that I wanted.
 
 Another issues that was resolved, an error kept on coming up about my imported typefaces from Google Fonts. It was brought to my attention that I had accidentally put a space in front of the link, so this was easily resolved.
 
@@ -172,11 +171,11 @@ Another issues that was resolved, an error kept on coming up about my imported t
 
 ![lighthouse rating](/assets/images-readme/lighthouse-rating.png)
 - my page has excellent accessibility rating
-- Test the opening the site in Google Chrome and Safari and it opens with no issues. 
+- Tested opening the site in Google Chrome and Safari and it opens with no issues. 
 - All external links open in new tabs and arrive at the desired website. 
 
 ### Unfixed Bugs 
-When the website is at it's smallest size, the leading of the body copy is slightly too large and the image on the main section sits slightly too small. However, I don't think this takes away from the design too much. I intend to spend more time on this website and be able to fix those buges.
+When the website is at it's smallest size, the leading/line height of the body copy is slightly too large and the image on the main section sits slightly too small. However, I don't think this takes away from the design too much. I intend to spend more time on this website and be able to fix those buges.
 
 # Libraries and Programs used
 - Github: Store Repository
@@ -204,11 +203,11 @@ The first bit of styling for css for the margin, body copy, h1 and h2 elements w
 I would also like to give full credit for the creator
 Lolita Olympia, I have used her YouTube video on how to make pottery from home. The video can be found [here.](https://www.youtube.com/watch?v=JzE3g9KrdOQ&ab_channel=LolitaOlympia) I wanted to use this video as it was really fun and showed simply how you can make pottery.
 
-The link [here](https://www.30secondsofcode.org/css/s/footer-at-the-bottom/#:~:text=You%20can%20use%20flexbox%20to,and%20flex%2Ddirection%3A%20column%20.%20-%20for%20help%20with%20footer%20sticking%20to%20the%20bottom>) from the 30 seconds of code website, helped me with issues as of getting my footer to stick bottom of my website. 
+The link [here](https://www.30secondsofcode.org/css/s/footer-at-the-bottom/#:~:text=You%20can%20use%20flexbox%20to,and%20flex%2Ddirection%3A%20column%20.%20-%20for%20help%20with%20footer%20sticking%20to%20the%20bottom>) from the 30 seconds of code website, helped me with issues as of getting my footer to stick to the bottom of my website. 
 
 This [link](https://forum.freecodecamp.org/t/youtube-refused-to-connect/245262) from FreeCodeCamp helped me resolve issues with linking my iframe to the credited youtube video above. 
 
-I would like to thank Angelica Guimaraes, as I took inspiration from her CSS to help me with creating styling my talbe found on my classes page. The link can be found [here.](https://github.com/AngelicaGuimaraes/P1_magnolia_tree/blob/main/assets/css/style.css)
+I would like to thank Angelica Guimaraes, as I took inspiration from some of her html and CSS to help me with creating styling and structure for my table found on my classes page. The link can be found [here.](https://github.com/AngelicaGuimaraes/P1_magnolia_tree/blob/main/assets/css/style.css)
 
 I would also like to credit this Stack Overflow [reply](https://stackoverflow.com/questions/2603700/how-to-align-3-divs-left-center-right-inside-another-div), which allowed me to be able to get my reviews to sit next to each other white sitting in a div.
 
