@@ -39,6 +39,9 @@ My idea for this project was to create a website for people who wanted to be abl
     - [Validator Testing](#validator-testing)
     - [Unfixed Bugs](#unfixed-bugs)
 - [Libraries and Programs used](#libraries-and-programs-used)
+- [Deployment](#deployment)
+- [Credits](#credits)
+    - [Media](#media)
 
 # UX
 ### Site Purpose
@@ -167,12 +170,12 @@ Another issues that was resolved, an error kept on coming up about my imported t
 - all of the css code has been put through w3c tester and has passed.
 
 ![lighthouse rating](/assets/images-readme/lighthouse-rating.png)
-- my page has excellenc accessibility rating
+- my page has excellent accessibility rating
 - Test the opening the site in Google Chrome and Safari and it opens with no issues. 
 - All external links open in new tabs and arrive at the desired website. 
 
 ### Unfixed Bugs 
-When the website is at it's smallest size, the leading of the body copy is slightly too large and the image on the main section sits slightly too small. However, I don't think this takes away from the design too much. I intend to spend more time of this website and be able to fix those buges.
+When the website is at it's smallest size, the leading of the body copy is slightly too large and the image on the main section sits slightly too small. However, I don't think this takes away from the design too much. I intend to spend more time on this website and be able to fix those buges.
 
 # Libraries and Programs used
 - Github: Store Repository
@@ -182,3 +185,32 @@ When the website is at it's smallest size, the leading of the body copy is sligh
 - Safari: Site testing on an alternative browser
 - Font Awesome: Socail media icons
 - Am I responsive: Screenshots of the final project for the README file
+
+# Deployment
+1. In the GitHub repositories, navigate your way to the settings tab
+2. From there on your left hand side find the 'Pages' tab, click on it.
+3. In the build and deployment section, select 'source' and then 'deploy from a branch'
+4. Then underneath that select 'main' and 'root' 
+5. Click save
+6. Your page should refresh automatically or manually with a link to your deployed website. 
+7. The link can be found here: <https://saskiapacker.github.io/potters-club/>
+
+# Credits
+I would like to give credit to the 'Love Running' project, as my knowledge is limited on setting up the initial file, I look inspiration from there. In addition to this, I also took inspiration for the footer elements and the social icons too. 
+
+The first bit of styling for css for the margin, body copy, h1 and h2 elements were also taken as inspiration from the love running project. In addition to this, I also took some inspiration from the Love Running css styling, for the form input section as well.
+
+I would also like to give full credit for the creator
+Lolita Olympia, I have used her YouTube video on how to make pottery from home. The video can be found [here.](https://www.youtube.com/watch?v=JzE3g9KrdOQ&ab_channel=LolitaOlympia) I wanted to use this video as it was really fun and showed simply how you can make pottery.
+
+The link [here](https://www.30secondsofcode.org/css/s/footer-at-the-bottom/#:~:text=You%20can%20use%20flexbox%20to,and%20flex%2Ddirection%3A%20column%20.%20-%20for%20help%20with%20footer%20sticking%20to%20the%20bottom>) from the 30 seconds of code website, helped me with issues as of getting my footer to stick bottom of my website. 
+
+This [link](https://forum.freecodecamp.org/t/youtube-refused-to-connect/245262) from FreeCodeCamp helped me resolve issues with linking my iframe to the credited youtube video above. 
+
+I would like to thank Angelica Guimaraes, as I took inspiration from her CSS to help me with creating styling my talbe found on my classes page. The link can be found [here.](https://github.com/AngelicaGuimaraes/P1_magnolia_tree/blob/main/assets/css/style.css)
+
+I would also like to credit this Stack Overflow [reply](https://stackoverflow.com/questions/2603700/how-to-align-3-divs-left-center-right-inside-another-div), which allowed me to be able to get my reviews to sit next to each other white sitting in a div.
+
+### Media
+All of my images are sourced from unsplash.com or pexels.com 
+
