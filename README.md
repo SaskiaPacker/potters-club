@@ -40,7 +40,7 @@ My idea for this project was to create a website for people who wanted to be abl
 - [Libraries and Programs used](#libraries-and-programs-used)
 - [Deployment \& Usage](#deployment--usage)
     - [Deployment](#deployment)
-    - [How to fork](#how-to-fork)
+    - [How to Fork](#how-to-fork)
     - [How to Clone](#how-to-clone)
 - [Credits](#credits)
     - [Media](#media)
@@ -200,7 +200,7 @@ When the website is at it's smallest size, the leading/line height of the body c
 6. Your page should refresh automatically or manually with a link to your deployed website. 
 7. The link can be found here: <https://saskiapacker.github.io/potters-club/>
 
-### How to fork
+### How to Fork
 - Log in (or sign up) to [Github](https://github.com/).
 - Go to respository for this project [Potters Club](https://github.com/SaskiaPacker/potters-club).
 - Click the fork button in the top right corner.
