@@ -38,7 +38,10 @@ My idea for this project was to create a website for people who wanted to be abl
     - [Validator Testing](#validator-testing)
     - [Unfixed Bugs](#unfixed-bugs)
 - [Libraries and Programs used](#libraries-and-programs-used)
-- [Deployment](#deployment)
+- [Deployment \& Usage](#deployment--usage)
+    - [Deployment](#deployment)
+    - [How to fork](#how-to-fork)
+    - [How to Clone](#how-to-clone)
 - [Credits](#credits)
     - [Media](#media)
     - [YouTube](#youtube)
@@ -186,7 +189,9 @@ When the website is at it's smallest size, the leading/line height of the body c
 - Font Awesome: Social media icons
 - Am I responsive: Screenshots of the final project for the README file
 
-# Deployment
+# Deployment & Usage
+
+### Deployment
 1. In the GitHub repositories, navigate your way to the settings tab
 2. From there on your left hand side find the 'Pages' tab, click on it.
 3. In the build and deployment section, select 'source' and then 'deploy from a branch'
@@ -194,6 +199,19 @@ When the website is at it's smallest size, the leading/line height of the body c
 5. Click save
 6. Your page should refresh automatically or manually with a link to your deployed website. 
 7. The link can be found here: <https://saskiapacker.github.io/potters-club/>
+
+### How to fork
+- Log in (or sign up) to [Github](https://github.com/).
+- Go to respository for this project [Potters Club](https://github.com/SaskiaPacker/potters-club).
+- Click the fork button in the top right corner.
+
+### How to Clone
+- Log in (or sign up) to [Github](https://github.com/).
+- Go to respository for this project [Potters Club](https://github.com/SaskiaPacker/potters-club).
+- Click on the code button, select whether you would like to clone with HTTPS, SSH, GitHub CLI and copy the link shown.
+- Open the terminal in your code editor and change the current working directory to the location you want to use for the clone directory.
+- Type 'git clone' into terminal and then paste the link you copied in step 3.
+- Press enter.
 
 # Credits
 I would like to give credit to the 'Love Running' project, as my knowledge is limited on setting up the initial file, I look inspiration from there. In addition to this, I also took inspiration for the footer elements and the social icons too. 
